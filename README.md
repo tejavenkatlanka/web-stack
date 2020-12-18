@@ -1,2 +1,2 @@
 # web-stack
-all about web it's mostly about java script
+all about web, it's mostly in javascript
